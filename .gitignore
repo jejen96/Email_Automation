@@ -1,0 +1,28 @@
+# File rahasia - JANGAN pernah di-commit
+.env
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log files (opsional, tergantung preferensi tim)
+logs/*.log
+
+# File Excel hasil kerja (opsional)
+# data/data_email.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
